@@ -1,2 +1,2 @@
-alert('This is a webiste template, you should proabibly change it. ;)')
+alert('This is a website template, you should probably change it. ;)')
 console.log('Hello world.\nI see you here >:)')
